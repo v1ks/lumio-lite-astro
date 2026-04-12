@@ -12,15 +12,14 @@
 
 ## ✨ Features at a Glance
 
-- ✅ Homepage
-- ✅ Built with Astro 6 + Tailwind CSS 4
+- ✅ Localized homepage for English and French
+- ✅ Services list page and localized single service pages
 - ✅ Fully responsive and accessible
-- ✅ 100/100 Lighthouse performance score
 - ✅ SEO-ready: meta tags, Open Graph, JSON-LD schema
-- ✅ Minimal but tasteful built-in animations
+- ✅ Sticky header, localized navigation, and section anchor navigation
 - ✅ Easily deploy to Vercel, Netlify, or Cloudflare Pages
-- ✅ Edit all content using Markdown
-- ✅ Contact form integration support (Formspree, Formsubmit, Netlify)
+- ✅ Edit homepage and services content using Markdown and MDX frontmatter
+- ✅ Contact form integration support for Formspree, Formsubmit, and Netlify
 
 ## 🔄 Lite vs. Pro — Feature Comparison
 
