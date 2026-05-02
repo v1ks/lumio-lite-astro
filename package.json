@@ -25,7 +25,8 @@
     "generate-multilingual-content": "node ./scripts/generate-multilingual-content.mjs",
     "remove-draft-from-sitemap": "node ./scripts/remove-draft-from-sitemap.mjs",
     "format": "prettier -w ./src",
-    "test": "cross-env TS_NODE_PROJECT=\"./tsconfig.jest.json\" jest --watch"
+    "test": "cross-env TS_NODE_PROJECT=\"./tsconfig.jest.json\" jest --watch",
+    "deploy:cf": "wrangler pages deploy"
   },
   "engines": {
     "node": ">=22.12.0"
