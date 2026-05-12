@@ -1,7 +1,7 @@
 ---
-subtitle: "We are DevOops service agency"
-title: "We help you put Oops <br /> in your DevOps"
-description: "We are dedicated to guiding you on your DevOops adventures."
+subtitle: "We are DevOops! service agency"
+title: "We help you put Oops! <br /> in your DevOps"
+description: "We are dedicated to guiding you on your DevOops! adventures."
 
 image: "/images/home-banner/banner-3.jpg"
 imageAlt: "Team Collaboration"
