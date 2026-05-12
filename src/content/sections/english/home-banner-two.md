@@ -1,7 +1,7 @@
 ---
-subtitle: "We are IT service agency"
-title: "We help leaders grow their <br /> businesses for a brighter future"
-description: "We are dedicated to guiding you on your it firm personalized approach."
+subtitle: "We are DevOops service agency"
+title: "We help you put Oops <br /> in your DevOps"
+description: "We are dedicated to guiding you on your DevOops adventures."
 
 image: "/images/home-banner/banner-3.jpg"
 imageAlt: "Team Collaboration"
@@ -10,7 +10,7 @@ button:
   # Refer to the `sharedButton` schema in `src/sections.schema.ts` for all available configuration options
   # (e.g., enable, label, url, hoverEffect, variant, icon, tag, rel, class, target, etc.)
   enable: true
-  label: "Free Consultation"
+  label: "Free Oopses here!"
   url: "/#contact"
   icon: # Optional
     enable: true

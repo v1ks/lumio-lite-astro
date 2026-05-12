@@ -4,12 +4,12 @@ bgShape: "/images/feature-shape.png"
 
 features:
   - icon: "TriangleRight"
-    title: "SEAMLESS INTEGRATION"
+    title: "POINTLESS INTEGRATION"
     description: "Duis aute irure dolor in reprehenderit in voluptate velit cillum dolore eu fugiat nulla"
   - icon: "TriangleRight"
-    title: "ADVANCED ANALYTICS"
+    title: "NO ANALYTICS"
     description: "Duis aute irure dolor in reprehenderit in voluptate velit cillum dolore eu fugiat nulla"
   - icon: "TriangleRight"
-    title: "UNLIMITED POSSIBILITIES"
+    title: "UNLIMITED F*CKUPS"
     description: "Duis aute irure dolor in reprehenderit in voluptate velit cillum dolore eu fugiat nulla"
 ---
